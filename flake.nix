@@ -3,11 +3,11 @@
 
   inputs.byond-linux = {
     type = "tarball";
-    url = "https://www.byond.com/download/build/515/515.1593_byond_linux.zip";
+    url = "https://www.byond.com/download/build/515/515.1594_byond_linux.zip";
     flake = false;
   };
 
-  outputs = { self, nixpkgs, byond-linux, ... }: let byond_ver = "515"; byond_build = "1593"; in rec {
+  outputs = { self, nixpkgs, byond-linux, ... }: let byond_ver = "515"; byond_build = "1594"; in rec {
     packages.i686-linux.byond-linux = with import nixpkgs { config.allowUnfree = true; system = "i686-linux"; };
       stdenv.mkDerivation rec {
         pname = "byond-linux";
