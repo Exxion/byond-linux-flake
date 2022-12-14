@@ -3,22 +3,22 @@
     "byond-linux": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-CqVTMle8itqpzFLQOnhzzTneXiN14SKrur+DeCEFu8c=",
+        "narHash": "sha256-PuOPL5vYxCpQ3tjA8hh+Nf1a4U9CZMLzY0XJJgn4kng=",
         "type": "tarball",
-        "url": "https://www.byond.com/download/build/515/515.1596_byond_linux.zip"
+        "url": "https://www.byond.com/download/build/515/515.1597_byond_linux.zip"
       },
       "original": {
         "type": "tarball",
-        "url": "https://www.byond.com/download/build/515/515.1596_byond_linux.zip"
+        "url": "https://www.byond.com/download/build/515/515.1597_byond_linux.zip"
       }
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1669076005,
-        "narHash": "sha256-uzMji2q9Pk3jUH+e5nEFtoOZCP4VV1PDRJRLVmriY0M=",
+        "lastModified": 1670918062,
+        "narHash": "sha256-iOhkyBYUU9Jfkk0lvI4ahpjyrTsLXj9uyJWwmjKg+gg=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "69335c46c48a73f291d5c6f332fb9fe8b8e22b30",
+        "rev": "84575b0bd882be979516f4fecfe4d7c8de8f6a92",
         "type": "github"
       },
       "original": {
