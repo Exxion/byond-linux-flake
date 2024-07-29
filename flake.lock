@@ -3,21 +3,21 @@
     "byond-linux": {
       "flake": false,
       "locked": {
-        "lastModified": 1709673471,
-        "narHash": "sha256-TPANQPCaROg2fOzmnf2RKvHcEe0Lv2B+ms+HCnEWzbc=",
+        "lastModified": 1721942847,
+        "narHash": "sha256-4x4ywyzzXPl07jEEnXke4SV/1nWiGR9i+6FEiR3N2EI=",
         "type": "tarball",
-        "url": "https://www.byond.com/download/build/515/515.1633_byond_linux.zip"
+        "url": "https://www.byond.com/download/build/515/515.1642_byond_linux.zip"
       },
       "original": {
         "type": "tarball",
-        "url": "https://www.byond.com/download/build/515/515.1633_byond_linux.zip"
+        "url": "https://www.byond.com/download/build/515/515.1642_byond_linux.zip"
       }
     },
     "nixpkgs": {
       "locked": {
         "lastModified": 0,
-        "narHash": "sha256-cy6ArO4k5qTx+l5o+0mL9f5fa86tYUX3ozE1S+Txlds=",
-        "path": "/nix/store/lwyjz70qh12nq6cb7fixl85vryzxqm3c-source",
+        "narHash": "sha256-oedh2RwpjEa+TNxhg5Je9Ch6d3W1NKi7DbRO1ziHemA=",
+        "path": "/nix/store/iqxdbcjlg9wx8gdc8bdhy9nsd5imcbjp-source",
         "type": "path"
       },
       "original": {
