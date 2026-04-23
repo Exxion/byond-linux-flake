@@ -16,7 +16,7 @@
 
         nativeBuildInputs = [ autoPatchelfHook ];
 
-        buildInputs = [ gcc-unwrapped glibc ];
+        buildInputs = [ gcc-unwrapped glibc curl ];
 
         buildPhase = " ";
 
